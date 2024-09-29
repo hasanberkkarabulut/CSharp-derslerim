@@ -1,0 +1,7 @@
+C:\Users\Karabulut\source\repos\c#dersim\c#dersim\bin\Debug\c#dersim.exe.config
+C:\Users\Karabulut\source\repos\c#dersim\c#dersim\bin\Debug\c#dersim.exe
+C:\Users\Karabulut\source\repos\c#dersim\c#dersim\bin\Debug\c#dersim.pdb
+C:\Users\Karabulut\source\repos\c#dersim\c#dersim\obj\Debug\c#dersim.csproj.AssemblyReference.cache
+C:\Users\Karabulut\source\repos\c#dersim\c#dersim\obj\Debug\c#dersim.csproj.CoreCompileInputs.cache
+C:\Users\Karabulut\source\repos\c#dersim\c#dersim\obj\Debug\c#dersim.exe
+C:\Users\Karabulut\source\repos\c#dersim\c#dersim\obj\Debug\c#dersim.pdb
